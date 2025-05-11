@@ -11,8 +11,8 @@ export const projects = [
     title: "Portfolio Website",
     description: "A personal portfolio showcasing my skills, projects, and contact information.",
     technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://ksatheesan.vercel.app/",
+    githubUrl: "https://github.com/shathuk/portfolio-site-nextjs",
   },
   {
     title: "Task Manager App",
