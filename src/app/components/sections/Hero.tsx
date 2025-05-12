@@ -46,10 +46,10 @@ export default function Hero() {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ delay: 0.6 }}
         className="mt-6"
-      >
+      > <link href="https://drive.google.com/file/d/1dkzoyPkA4f54ZhfYK1z1NoA82bZ3zU9t/view?usp=sharing">
         <button id="projects" className="px-6 py-3 rounded-full bg-indigo-600 hover:bg-indigo-500 transition text-white font-medium">
-          View My Work
-        </button>
+          View Resume
+        </button> </link>
       </motion.div>
     </section>
   );
