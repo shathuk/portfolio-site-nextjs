@@ -3,6 +3,7 @@ import Navbar from "../components/ui/Navbar";
 import About from "../components/About";
 import Projects from "../components/sections/Projects";
 import Contact from "../components/Contact";
+import Footer from "../components/Footer";
 
 
 export default function HomePage() {
@@ -13,6 +14,7 @@ export default function HomePage() {
       <About />
       <Projects />
       <Contact />
+      <Footer />
     </main>
   );
 }
